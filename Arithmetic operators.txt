@@ -1,0 +1,8 @@
+If a=10, b=20
+"+" - Add two objects together  a+b=30
+"-" - Get a negative number or a number minus another number  a-b=-10 or b-a=10
+"*" - Multiply two numbers or return a string that has been repeated several times  a*b=200
+"/" - One number divided by another a/b=0.5 or b/a=2
+"%" - Returns the remainder of the division b%a=10
+"//" - Returns the integer portion of the quotient (rounded down) 9//2=4 or -9//2=-5
+"**" - Returns x to the yth power a**b=100000000000000000000
